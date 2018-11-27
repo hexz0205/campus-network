@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.hexz</groupId>
-    <artifactId>campus</artifactId>
+    <artifactId>knoworno</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <name>校园社交1.0</name>
-    <description>自己瞎弄的一个社交项目</description>
+    <name>知否社区</name>
+    <description>程序员自学交流社区</description>
 
     <!--springboot依赖父包-->
     <parent>
