@@ -1,4 +1,4 @@
-package cn.hexz.campus.application;
+package cn.hexz.knoworno.application;
 
 import io.swagger.annotations.ApiOperation;
 import org.springframework.context.annotation.Bean;

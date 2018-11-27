@@ -1,4 +1,4 @@
-package cn.hexz.campus;
+package cn.hexz.knoworno;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;

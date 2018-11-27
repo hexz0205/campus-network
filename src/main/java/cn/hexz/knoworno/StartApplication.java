@@ -1,4 +1,4 @@
-package cn.hexz.campus;
+package cn.hexz.knoworno;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
